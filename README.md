@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **adrian27lemma@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I1R63OAtDv6gt95pjkkJxFkwW98YFLDT/view?usp=share_link](https://drive.google.com/file/d/1I1R63OAtDv6gt95pjkkJxFkwW98YFLDT/view?usp=share_link)
+- 📄 Know about my experiences by looking [https://drive.google.com/file/d/1I1R63OAtDv6gt95pjkkJxFkwW98YFLDT/view?usp=share_link](my resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/marcelo lemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelo lemma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marcelo-lemma-0508a7139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelo lemma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
