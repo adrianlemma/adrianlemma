@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adrian27lemma@gmail.com**
 
-- 📄 Know about my experiences by looking [https://drive.google.com/file/d/1I1R63OAtDv6gt95pjkkJxFkwW98YFLDT/view?usp=share_link](my resume)
+- 📄 Know about my experiences by looking (my resume)[https://drive.google.com/file/d/1I1R63OAtDv6gt95pjkkJxFkwW98YFLDT/view?usp=share_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
